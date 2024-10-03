@@ -1,4 +1,4 @@
----
+## AI Integration
 
 # Project Setup Guide
 
