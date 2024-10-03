@@ -1,5 +1,3 @@
-Here’s a more polished version of your `README.md` file:
-
 ---
 
 # Project Setup Guide
